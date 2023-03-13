@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oumaima</h1>
 <h3 align="center">I'm not a people person, I'm a computer person</h3>
 
-- 🔭 I’m currently working on **an automation project**
-
-- 🌱 I’m currently learning **WEB DEV**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oumaimaoys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oumaimaoys" height="30" width="40" /></a>
