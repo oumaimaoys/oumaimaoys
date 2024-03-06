@@ -51,11 +51,13 @@
 <p>
  <img align="right" width="350" src="/assets/bit.gif" alt="Coding gif" />
   
- 📧 &emsp; Reach me anytime: oouyassine@insea.ac.ma<br/><br/>
+  <br/>
  💬 &emsp; Ask me about anything [here](https://github.com/oumaimaoys/oumaimaoys/issues)
 
 </p>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
