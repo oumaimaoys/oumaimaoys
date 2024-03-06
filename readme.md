@@ -49,7 +49,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/bit.gif" alt="Coding gif" />
   
  📧 &emsp; Reach me anytime: oouyassine@insea.ac.ma<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/oumaimaoys/oumaimaoys/issues)
@@ -59,15 +59,17 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## Use
-
+<!--
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+-->
 
 <br/>
 
