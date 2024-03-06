@@ -52,7 +52,7 @@
  <img align="right" width="350" src="/assets/bit.gif" alt="Coding gif" />
   
 <br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/oumaimaoys/oumaimaoys/issues)
+<br/>
 
 </p>
 
@@ -77,7 +77,7 @@
 
 ## Top Open Source -
 [![athar](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=athar&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/athar)
-[![EBNF_to_graphics_parser](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=EBNF_to_graphics_parse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/EBNF_to_graphics_parser)
+[![EBNF_to_graphics_parser](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=EBNF_to_graphics_parser&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/EBNF_to_graphics_parser)
 [![visualization_and_forecasting_stocks](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=visualization_and_forecasting_stocks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/visualization_and_forecasting_stocks)
 [![password_manager ](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=password_manager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/password_manager)
 
