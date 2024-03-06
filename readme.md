@@ -29,10 +29,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a Data and software engineer from Moroccco</b> 」
-    <br>
     <br>
   </samp>
 </p>
@@ -62,7 +60,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Use
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
@@ -74,10 +72,10 @@
 <br/>
 
 ## Top Open Source -
-[![athar](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/athar)
-[![EBNF_to_graphics_parser](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/EBNF_to_graphics_parser)
-[![visualization_and_forecasting_stocks](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/visualization_and_forecasting_stocks)
-[![password_manager ](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/password_manager )
+[![athar](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=athar&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/athar)
+[![EBNF_to_graphics_parser](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=EBNF_to_graphics_parse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/EBNF_to_graphics_parser)
+[![visualization_and_forecasting_stocks](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=visualization_and_forecasting_stocks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/visualization_and_forecasting_stocks)
+[![password_manager ](https://github-readme-stats.vercel.app/api/pin/?username=oumaimaoys&repo=password_manager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/oumaimaoys/password_manager)
 
 
 <p align="left">
@@ -107,4 +105,4 @@
 </a>
 
 
-![oumaimaoys's Graph](https://github-readme-activity-graph.vercel.app/graph?username=oumaimaoys&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![oumaimaoys's Graph](https://github-readme-activity-graph.vercel.app/graph?username=oumaimaoys&custom_title=oumaima's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
