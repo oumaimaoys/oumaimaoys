@@ -51,8 +51,8 @@
 <p>
  <img align="right" width="350" src="/assets/bit.gif" alt="Coding gif" />
   
-
- 💬 &emsp; Ask me about anything ![here](https://github.com/oumaimaoys/oumaimaoys/issues)
+<br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/oumaimaoys/oumaimaoys/issues)
 
 </p>
 
